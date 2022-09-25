@@ -39,3 +39,5 @@ docker-compose.yml
 /coverage
 .tool-versions
 .idea/
+
+INFO.md
